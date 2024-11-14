@@ -1,0 +1,13 @@
+.userInfo {
+    background: aqua;
+    height: 160%;
+    color: black;
+    border: 1px solid red;
+}
+
+/* left css  */
+
+.totalUser {
+    background: burlywood;
+    height: 248px;
+}
